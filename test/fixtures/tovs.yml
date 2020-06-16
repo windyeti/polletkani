@@ -1,0 +1,53 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fid: MyString
+  link: MyString
+  sku: MyString
+  title: MyString
+  sdesc: MyString
+  desc: MyString
+  oldprice: MyString
+  price: MyString
+  pict: MyString
+  cat: MyString
+  cat1: MyString
+  cat2: MyString
+  cat3: MyString
+  mtitle: MyString
+  mdesc: MyString
+  mkeyw: MyString
+  p1: MyString
+  p2: MyString
+  p3: MyString
+  p4: MyString
+  label: false
+  check: false
+  linkins: MyString
+  insid: MyString
+
+two:
+  fid: MyString
+  link: MyString
+  sku: MyString
+  title: MyString
+  sdesc: MyString
+  desc: MyString
+  oldprice: MyString
+  price: MyString
+  pict: MyString
+  cat: MyString
+  cat1: MyString
+  cat2: MyString
+  cat3: MyString
+  mtitle: MyString
+  mdesc: MyString
+  mkeyw: MyString
+  p1: MyString
+  p2: MyString
+  p3: MyString
+  p4: MyString
+  label: false
+  check: false
+  linkins: MyString
+  insid: MyString
